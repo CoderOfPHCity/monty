@@ -1,5 +1,4 @@
-# MONTY
-![alt text](https://pbs.twimg.com/media/CFYYWy6UEAE9Ow-.png)
+
 
 ## Description
 
@@ -11,7 +10,7 @@ Monty 0.98 is a scripting language that is first compiled into Monty byte codes 
 
 1. Clone the repository:
 ```console
-https://github.com/Lexxyla/monty.git
+https://github.com/CoderOfPHCity/monty.git
 ```
 
 ## Usage
@@ -63,4 +62,4 @@ builders.c  helper.c   hsh          README.md  test
 ```
 
 ### Authors
-[Bamidele Adefolaju](https://github.com/Lexxyla) and [Akinloye Oluwakemi](https://github.com/Natacha-07)
+[Daniel Agantem](https://github.com/CoderOfPHCity) 
